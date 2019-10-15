@@ -40,8 +40,6 @@ const Content = () => {
         <div className="content">
            <div className="content1">
            <div className="container is-fullhd">
-           <h1>Response in localStorage: </h1>
-           <br></br>
            <div className="notification">
            <CompHistory history1={Principle} history2={monthly} history3={numberofPayments}/>        
           </div>
